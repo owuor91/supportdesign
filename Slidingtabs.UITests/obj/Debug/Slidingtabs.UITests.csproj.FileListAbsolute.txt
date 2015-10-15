@@ -1,0 +1,9 @@
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\bin\Debug\Slidingtabs.UITests.dll
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\bin\Debug\Slidingtabs.UITests.pdb
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\bin\Debug\nunit.framework.dll
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\bin\Debug\nunit.framework.xml
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\obj\Debug\Slidingtabs.UITests.csprojResolveAssemblyReference.cache
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\obj\Debug\Slidingtabs.UITests.dll
+C:\Users\johno_000\Desktop\Slidingtabs\Slidingtabs.UITests\obj\Debug\Slidingtabs.UITests.pdb
